@@ -15,6 +15,5 @@
         "psr-4": {
             "Johnny\\Tools\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
