@@ -3,6 +3,7 @@
     "description": "The php tools",
     "keywords": ["php", "tools", "windows mkdir"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "johnny",
