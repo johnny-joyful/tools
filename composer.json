@@ -2,7 +2,6 @@
     "name": "johnny/tools",
     "description": "The php tools",
     "license": "MIT",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "Johnny",
